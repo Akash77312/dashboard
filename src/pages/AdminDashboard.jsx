@@ -125,7 +125,7 @@ const AdminDashboard = () => {
         <aside id="sidebar">
           <div className="sidebar-title">
             <div className="sidebar-brand">
-              <span className="sidebarTab">Ritik Singh</span>
+              <span className="sidebarTab">Akash Singh</span>
             </div>
             <span className="sidebarTab" onClick={() => window.closeSidebar()}>
               <i class="fa-solid fa-xmark"></i>
